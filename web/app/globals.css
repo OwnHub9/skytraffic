@@ -94,3 +94,12 @@ html, body {
 @media (prefers-reduced-motion: reduce) { .flow { animation: none; } }
 .state { stroke: none; transition: fill .2s; }
 .state:hover { fill: #18273f; }
+.nav-inner { display: flex; align-items: center; gap: 16px; min-height: 64px; flex-wrap: wrap; }
+.nav-links { display: flex; gap: 4px; margin-left: auto; flex-wrap: wrap; }
+
+@media (max-width: 900px) {
+  .nav-inner { padding-top: 12px; padding-bottom: 12px; gap: 10px; }
+  .nav-links { margin-left: 0; width: 100%; gap: 6px; }
+  .navlink { border: 1px solid #2a3548; padding: 8px 12px; font-size: 13px; }
+  .nav-status { display: none !important; }
+}
