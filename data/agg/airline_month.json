@@ -1,0 +1,737 @@
+[
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 1,
+  "delay_rate": 24.14
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 2,
+  "delay_rate": 21.32
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 3,
+  "delay_rate": 14.56
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 4,
+  "delay_rate": 13.28
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 5,
+  "delay_rate": 13.58
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 6,
+  "delay_rate": 11.67
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "Month": 7,
+  "delay_rate": 13.34
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 23.01
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 17.43
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 17.28
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 22.66
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 18.65
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 20.21
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 18.22
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 1,
+  "delay_rate": 28.41
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 2,
+  "delay_rate": 30.85
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 3,
+  "delay_rate": 39.37
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 4,
+  "delay_rate": 38.83
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 5,
+  "delay_rate": 32.65
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 6,
+  "delay_rate": 38.85
+ },
+ {
+  "Airline": "Allegiant Air",
+  "Month": 7,
+  "delay_rate": 38.0
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 14.71
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 21.46
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 18.17
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 20.62
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 21.9
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 31.26
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 29.51
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 1,
+  "delay_rate": 20.91
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 2,
+  "delay_rate": 15.7
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 3,
+  "delay_rate": 13.31
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 4,
+  "delay_rate": 11.85
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 5,
+  "delay_rate": 14.73
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 6,
+  "delay_rate": 16.68
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "Month": 7,
+  "delay_rate": 16.41
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 1,
+  "delay_rate": 23.17
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 2,
+  "delay_rate": 22.73
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 3,
+  "delay_rate": 20.42
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 4,
+  "delay_rate": 17.91
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 5,
+  "delay_rate": 21.1
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 6,
+  "delay_rate": 23.07
+ },
+ {
+  "Airline": "Comair Inc.",
+  "Month": 7,
+  "delay_rate": 26.17
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 1,
+  "delay_rate": 21.51
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 2,
+  "delay_rate": 22.55
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 3,
+  "delay_rate": 19.99
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 4,
+  "delay_rate": 15.75
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 5,
+  "delay_rate": 18.59
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 6,
+  "delay_rate": 21.52
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "Month": 7,
+  "delay_rate": 18.46
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 1,
+  "delay_rate": 14.69
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 2,
+  "delay_rate": 13.5
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 3,
+  "delay_rate": 18.31
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 4,
+  "delay_rate": 17.87
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 5,
+  "delay_rate": 17.04
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 6,
+  "delay_rate": 19.61
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "Month": 7,
+  "delay_rate": 19.42
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 1,
+  "delay_rate": 16.21
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 2,
+  "delay_rate": 15.81
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 3,
+  "delay_rate": 16.7
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 4,
+  "delay_rate": 14.11
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 5,
+  "delay_rate": 16.27
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 6,
+  "delay_rate": 17.26
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "Month": 7,
+  "delay_rate": 19.29
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 1,
+  "delay_rate": 15.11
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 2,
+  "delay_rate": 17.36
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 3,
+  "delay_rate": 15.12
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 4,
+  "delay_rate": 17.74
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 5,
+  "delay_rate": 17.39
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 6,
+  "delay_rate": 17.21
+ },
+ {
+  "Airline": "Envoy Air",
+  "Month": 7,
+  "delay_rate": 17.78
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 27.28
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 28.88
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 39.25
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 39.36
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 34.35
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 29.59
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 26.51
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 1,
+  "delay_rate": 28.51
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 2,
+  "delay_rate": 26.79
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 3,
+  "delay_rate": 26.36
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 4,
+  "delay_rate": 25.94
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 5,
+  "delay_rate": 32.33
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 6,
+  "delay_rate": 24.7
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "Month": 7,
+  "delay_rate": 20.32
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 18.95
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 12.6
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 14.97
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 18.08
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 13.89
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 22.6
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 19.15
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 1,
+  "delay_rate": 25.23
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 2,
+  "delay_rate": 14.23
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 3,
+  "delay_rate": 12.25
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 4,
+  "delay_rate": 17.94
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 5,
+  "delay_rate": 15.76
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 6,
+  "delay_rate": 18.47
+ },
+ {
+  "Airline": "Horizon Air",
+  "Month": 7,
+  "delay_rate": 12.38
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 1,
+  "delay_rate": 32.02
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 2,
+  "delay_rate": 34.62
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 3,
+  "delay_rate": 32.2
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 4,
+  "delay_rate": 41.22
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 5,
+  "delay_rate": 28.64
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 6,
+  "delay_rate": 36.17
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "Month": 7,
+  "delay_rate": 31.01
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 22.19
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 19.67
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 16.45
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 14.68
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 19.51
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 21.94
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 21.11
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 1,
+  "delay_rate": 20.59
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 2,
+  "delay_rate": 21.19
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 3,
+  "delay_rate": 21.39
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 4,
+  "delay_rate": 18.88
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 5,
+  "delay_rate": 26.34
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 6,
+  "delay_rate": 23.03
+ },
+ {
+  "Airline": "Republic Airlines",
+  "Month": 7,
+  "delay_rate": 21.21
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 1,
+  "delay_rate": 20.57
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 2,
+  "delay_rate": 18.97
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 3,
+  "delay_rate": 16.22
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 4,
+  "delay_rate": 15.71
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 5,
+  "delay_rate": 15.55
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 6,
+  "delay_rate": 17.33
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "Month": 7,
+  "delay_rate": 16.19
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 1,
+  "delay_rate": 18.42
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 2,
+  "delay_rate": 18.21
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 3,
+  "delay_rate": 27.3
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 4,
+  "delay_rate": 28.26
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 5,
+  "delay_rate": 22.43
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 6,
+  "delay_rate": 27.64
+ },
+ {
+  "Airline": "Southwest Airlines Co.",
+  "Month": 7,
+  "delay_rate": 29.53
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 1,
+  "delay_rate": 23.2
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 2,
+  "delay_rate": 26.14
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 3,
+  "delay_rate": 29.88
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 4,
+  "delay_rate": 34.66
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 5,
+  "delay_rate": 29.49
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 6,
+  "delay_rate": 23.59
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "Month": 7,
+  "delay_rate": 20.81
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 1,
+  "delay_rate": 20.53
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 2,
+  "delay_rate": 18.3
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 3,
+  "delay_rate": 20.48
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 4,
+  "delay_rate": 18.95
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 5,
+  "delay_rate": 21.96
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 6,
+  "delay_rate": 22.1
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "Month": 7,
+  "delay_rate": 21.71
+ }
+]

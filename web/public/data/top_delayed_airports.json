@@ -1,0 +1,112 @@
+[
+ {
+  "Origin":"MDW",
+  "flights":40088,
+  "delay_rate":31.49,
+  "avg_dep_delay":19.9,
+  "name":"Chicago Midway International Airport",
+  "city":"Chicago",
+  "iata":"MDW",
+  "lat":41.785999,
+  "lon":-87.752403
+ },
+ {
+  "Origin":"MCO",
+  "flights":82394,
+  "delay_rate":29.99,
+  "avg_dep_delay":20.1,
+  "name":"Orlando International Airport",
+  "city":"Orlando",
+  "iata":"MCO",
+  "lat":28.4293994904,
+  "lon":-81.3089981079
+ },
+ {
+  "Origin":"BWI",
+  "flights":46819,
+  "delay_rate":29.61,
+  "avg_dep_delay":18.8,
+  "name":"Baltimore\/Washington International Thurgood Marshall Airport",
+  "city":"Baltimore",
+  "iata":"BWI",
+  "lat":39.1754,
+  "lon":-76.668297
+ },
+ {
+  "Origin":"EWR",
+  "flights":81654,
+  "delay_rate":29.3,
+  "avg_dep_delay":20.8,
+  "name":"Newark Liberty International Airport",
+  "city":"Newark",
+  "iata":"EWR",
+  "lat":40.6925010681,
+  "lon":-74.1687011719
+ },
+ {
+  "Origin":"FLL",
+  "flights":49378,
+  "delay_rate":28.06,
+  "avg_dep_delay":19.2,
+  "name":"Fort Lauderdale Hollywood International Airport",
+  "city":"Fort Lauderdale",
+  "iata":"FLL",
+  "lat":26.072599,
+  "lon":-80.152702
+ },
+ {
+  "Origin":"RSW",
+  "flights":23418,
+  "delay_rate":28.0,
+  "avg_dep_delay":17.7,
+  "name":"Southwest Florida International Airport",
+  "city":"Fort Myers",
+  "iata":"RSW",
+  "lat":26.5361995697,
+  "lon":-81.7552032471
+ },
+ {
+  "Origin":"DEN",
+  "flights":153283,
+  "delay_rate":27.7,
+  "avg_dep_delay":17.7,
+  "name":"Denver International Airport",
+  "city":"Denver",
+  "iata":"DEN",
+  "lat":39.8616981506,
+  "lon":-104.672996521
+ },
+ {
+  "Origin":"MIA",
+  "flights":63701,
+  "delay_rate":27.52,
+  "avg_dep_delay":17.7,
+  "name":"Miami International Airport",
+  "city":"Miami",
+  "iata":"MIA",
+  "lat":25.7931995392,
+  "lon":-80.2906036377
+ },
+ {
+  "Origin":"JFK",
+  "flights":75190,
+  "delay_rate":27.29,
+  "avg_dep_delay":19.5,
+  "name":"John F Kennedy International Airport",
+  "city":"New York",
+  "iata":"JFK",
+  "lat":40.63980103,
+  "lon":-73.77890015
+ },
+ {
+  "Origin":"DAL",
+  "flights":36054,
+  "delay_rate":26.59,
+  "avg_dep_delay":16.6,
+  "name":"Dallas Love Field",
+  "city":"Dallas",
+  "iata":"DAL",
+  "lat":32.847099,
+  "lon":-96.851799
+ }
+]

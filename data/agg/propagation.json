@@ -1,0 +1,44 @@
+[
+ {
+  "ord": 0,
+  "bucket": "First flight of day",
+  "flights": 990517,
+  "delay_rate": 15.16
+ },
+ {
+  "ord": 1,
+  "bucket": "Previous on time",
+  "flights": 1919712,
+  "delay_rate": 12.33
+ },
+ {
+  "ord": 2,
+  "bucket": "1\u201314 min late",
+  "flights": 474944,
+  "delay_rate": 21.82
+ },
+ {
+  "ord": 3,
+  "bucket": "15\u201329 min late",
+  "flights": 211588,
+  "delay_rate": 43.23
+ },
+ {
+  "ord": 4,
+  "bucket": "30\u201359 min late",
+  "flights": 172840,
+  "delay_rate": 72.53
+ },
+ {
+  "ord": 5,
+  "bucket": "60\u2013119 min late",
+  "flights": 110137,
+  "delay_rate": 86.22
+ },
+ {
+  "ord": 6,
+  "bucket": "120+ min late",
+  "flights": 65178,
+  "delay_rate": 79.14
+ }
+]

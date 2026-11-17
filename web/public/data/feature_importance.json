@@ -1,0 +1,34 @@
+[
+ {
+  "feature": "prev_delay",
+  "importance": 0.3304
+ },
+ {
+  "feature": "Dest_i",
+  "importance": 0.281
+ },
+ {
+  "feature": "Origin_i",
+  "importance": 0.279
+ },
+ {
+  "feature": "Airline_i",
+  "importance": 0.0422
+ },
+ {
+  "feature": "dep_hour",
+  "importance": 0.0305
+ },
+ {
+  "feature": "DayOfWeek",
+  "importance": 0.027
+ },
+ {
+  "feature": "Distance",
+  "importance": 0.0086
+ },
+ {
+  "feature": "is_weekend",
+  "importance": 0.0012
+ }
+]

@@ -1,0 +1,67 @@
+[
+ {
+  "bin": 0,
+  "flights": 3259,
+  "delay_rate": 16.35
+ },
+ {
+  "bin": 5,
+  "flights": 416257,
+  "delay_rate": 18.29
+ },
+ {
+  "bin": 10,
+  "flights": 1540327,
+  "delay_rate": 17.7
+ },
+ {
+  "bin": 15,
+  "flights": 1010333,
+  "delay_rate": 19.0
+ },
+ {
+  "bin": 20,
+  "flights": 459779,
+  "delay_rate": 21.9
+ },
+ {
+  "bin": 25,
+  "flights": 222022,
+  "delay_rate": 26.84
+ },
+ {
+  "bin": 30,
+  "flights": 115911,
+  "delay_rate": 33.75
+ },
+ {
+  "bin": 35,
+  "flights": 64552,
+  "delay_rate": 43.85
+ },
+ {
+  "bin": 40,
+  "flights": 37571,
+  "delay_rate": 57.07
+ },
+ {
+  "bin": 45,
+  "flights": 22935,
+  "delay_rate": 69.43
+ },
+ {
+  "bin": 50,
+  "flights": 14509,
+  "delay_rate": 80.78
+ },
+ {
+  "bin": 55,
+  "flights": 9815,
+  "delay_rate": 89.35
+ },
+ {
+  "bin": 60,
+  "flights": 27646,
+  "delay_rate": 97.97
+ }
+]

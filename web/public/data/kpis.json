@@ -1,0 +1,8 @@
+{
+ "total_flights": 4078318,
+ "cancel_rate": 3.02,
+ "delay_rate": 21.65,
+ "avg_delay_when_late": 68.1,
+ "airports": 375,
+ "airlines": 21
+}

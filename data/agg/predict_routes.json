@@ -1,0 +1,362 @@
+[
+ {
+  "r": "ANC-SEA",
+  "Origin": "ANC",
+  "Dest": "SEA",
+  "from_city": "Anchorage, AK",
+  "to_city": "Seattle, WA",
+  "distance": 1448.0,
+  "flights": 4090
+ },
+ {
+  "r": "ATL-FLL",
+  "Origin": "ATL",
+  "Dest": "FLL",
+  "from_city": "Atlanta, GA",
+  "to_city": "Fort Lauderdale, FL",
+  "distance": 581.0,
+  "flights": 4048
+ },
+ {
+  "r": "ATL-LGA",
+  "Origin": "ATL",
+  "Dest": "LGA",
+  "from_city": "Atlanta, GA",
+  "to_city": "New York, NY",
+  "distance": 762.0,
+  "flights": 4586
+ },
+ {
+  "r": "ATL-MCO",
+  "Origin": "ATL",
+  "Dest": "MCO",
+  "from_city": "Atlanta, GA",
+  "to_city": "Orlando, FL",
+  "distance": 404.0,
+  "flights": 4440
+ },
+ {
+  "r": "ATL-MIA",
+  "Origin": "ATL",
+  "Dest": "MIA",
+  "from_city": "Atlanta, GA",
+  "to_city": "Miami, FL",
+  "distance": 594.0,
+  "flights": 3885
+ },
+ {
+  "r": "BOS-DCA",
+  "Origin": "BOS",
+  "Dest": "DCA",
+  "from_city": "Boston, MA",
+  "to_city": "Washington, DC",
+  "distance": 399.0,
+  "flights": 6230
+ },
+ {
+  "r": "BOS-JFK",
+  "Origin": "BOS",
+  "Dest": "JFK",
+  "from_city": "Boston, MA",
+  "to_city": "New York, NY",
+  "distance": 187.0,
+  "flights": 3872
+ },
+ {
+  "r": "BOS-LGA",
+  "Origin": "BOS",
+  "Dest": "LGA",
+  "from_city": "Boston, MA",
+  "to_city": "New York, NY",
+  "distance": 184.0,
+  "flights": 4687
+ },
+ {
+  "r": "DCA-BOS",
+  "Origin": "DCA",
+  "Dest": "BOS",
+  "from_city": "Washington, DC",
+  "to_city": "Boston, MA",
+  "distance": 399.0,
+  "flights": 6228
+ },
+ {
+  "r": "DCA-LGA",
+  "Origin": "DCA",
+  "Dest": "LGA",
+  "from_city": "Washington, DC",
+  "to_city": "New York, NY",
+  "distance": 214.0,
+  "flights": 3875
+ },
+ {
+  "r": "DEN-LAS",
+  "Origin": "DEN",
+  "Dest": "LAS",
+  "from_city": "Denver, CO",
+  "to_city": "Las Vegas, NV",
+  "distance": 628.0,
+  "flights": 4358
+ },
+ {
+  "r": "DEN-PHX",
+  "Origin": "DEN",
+  "Dest": "PHX",
+  "from_city": "Denver, CO",
+  "to_city": "Phoenix, AZ",
+  "distance": 602.0,
+  "flights": 4414
+ },
+ {
+  "r": "DEN-SLC",
+  "Origin": "DEN",
+  "Dest": "SLC",
+  "from_city": "Denver, CO",
+  "to_city": "Salt Lake City, UT",
+  "distance": 391.0,
+  "flights": 4090
+ },
+ {
+  "r": "FLL-ATL",
+  "Origin": "FLL",
+  "Dest": "ATL",
+  "from_city": "Fort Lauderdale, FL",
+  "to_city": "Atlanta, GA",
+  "distance": 581.0,
+  "flights": 4047
+ },
+ {
+  "r": "HNL-KOA",
+  "Origin": "HNL",
+  "Dest": "KOA",
+  "from_city": "Honolulu, HI",
+  "to_city": "Kona, HI",
+  "distance": 163.0,
+  "flights": 3955
+ },
+ {
+  "r": "HNL-OGG",
+  "Origin": "HNL",
+  "Dest": "OGG",
+  "from_city": "Honolulu, HI",
+  "to_city": "Kahului, HI",
+  "distance": 100.0,
+  "flights": 5607
+ },
+ {
+  "r": "JFK-LAX",
+  "Origin": "JFK",
+  "Dest": "LAX",
+  "from_city": "New York, NY",
+  "to_city": "Los Angeles, CA",
+  "distance": 2475.0,
+  "flights": 5743
+ },
+ {
+  "r": "JFK-SFO",
+  "Origin": "JFK",
+  "Dest": "SFO",
+  "from_city": "New York, NY",
+  "to_city": "San Francisco, CA",
+  "distance": 2586.0,
+  "flights": 3946
+ },
+ {
+  "r": "KOA-HNL",
+  "Origin": "KOA",
+  "Dest": "HNL",
+  "from_city": "Kona, HI",
+  "to_city": "Honolulu, HI",
+  "distance": 163.0,
+  "flights": 3951
+ },
+ {
+  "r": "LAS-DEN",
+  "Origin": "LAS",
+  "Dest": "DEN",
+  "from_city": "Las Vegas, NV",
+  "to_city": "Denver, CO",
+  "distance": 628.0,
+  "flights": 4328
+ },
+ {
+  "r": "LAS-LAX",
+  "Origin": "LAS",
+  "Dest": "LAX",
+  "from_city": "Las Vegas, NV",
+  "to_city": "Los Angeles, CA",
+  "distance": 236.0,
+  "flights": 5821
+ },
+ {
+  "r": "LAX-JFK",
+  "Origin": "LAX",
+  "Dest": "JFK",
+  "from_city": "Los Angeles, CA",
+  "to_city": "New York, NY",
+  "distance": 2475.0,
+  "flights": 5725
+ },
+ {
+  "r": "LAX-LAS",
+  "Origin": "LAX",
+  "Dest": "LAS",
+  "from_city": "Los Angeles, CA",
+  "to_city": "Las Vegas, NV",
+  "distance": 236.0,
+  "flights": 5830
+ },
+ {
+  "r": "LAX-PHX",
+  "Origin": "LAX",
+  "Dest": "PHX",
+  "from_city": "Los Angeles, CA",
+  "to_city": "Phoenix, AZ",
+  "distance": 370.0,
+  "flights": 3918
+ },
+ {
+  "r": "LAX-SFO",
+  "Origin": "LAX",
+  "Dest": "SFO",
+  "from_city": "Los Angeles, CA",
+  "to_city": "San Francisco, CA",
+  "distance": 337.0,
+  "flights": 6471
+ },
+ {
+  "r": "LGA-ATL",
+  "Origin": "LGA",
+  "Dest": "ATL",
+  "from_city": "New York, NY",
+  "to_city": "Atlanta, GA",
+  "distance": 762.0,
+  "flights": 4605
+ },
+ {
+  "r": "LGA-BOS",
+  "Origin": "LGA",
+  "Dest": "BOS",
+  "from_city": "New York, NY",
+  "to_city": "Boston, MA",
+  "distance": 184.0,
+  "flights": 4703
+ },
+ {
+  "r": "LGA-DCA",
+  "Origin": "LGA",
+  "Dest": "DCA",
+  "from_city": "New York, NY",
+  "to_city": "Washington, DC",
+  "distance": 214.0,
+  "flights": 3873
+ },
+ {
+  "r": "LGA-ORD",
+  "Origin": "LGA",
+  "Dest": "ORD",
+  "from_city": "New York, NY",
+  "to_city": "Chicago, IL",
+  "distance": 733.0,
+  "flights": 6381
+ },
+ {
+  "r": "MCO-ATL",
+  "Origin": "MCO",
+  "Dest": "ATL",
+  "from_city": "Orlando, FL",
+  "to_city": "Atlanta, GA",
+  "distance": 404.0,
+  "flights": 4466
+ },
+ {
+  "r": "OGG-HNL",
+  "Origin": "OGG",
+  "Dest": "HNL",
+  "from_city": "Kahului, HI",
+  "to_city": "Honolulu, HI",
+  "distance": 100.0,
+  "flights": 5607
+ },
+ {
+  "r": "ORD-LGA",
+  "Origin": "ORD",
+  "Dest": "LGA",
+  "from_city": "Chicago, IL",
+  "to_city": "New York, NY",
+  "distance": 733.0,
+  "flights": 6358
+ },
+ {
+  "r": "PDX-SEA",
+  "Origin": "PDX",
+  "Dest": "SEA",
+  "from_city": "Portland, OR",
+  "to_city": "Seattle, WA",
+  "distance": 129.0,
+  "flights": 4479
+ },
+ {
+  "r": "PHX-DEN",
+  "Origin": "PHX",
+  "Dest": "DEN",
+  "from_city": "Phoenix, AZ",
+  "to_city": "Denver, CO",
+  "distance": 602.0,
+  "flights": 4397
+ },
+ {
+  "r": "PHX-LAX",
+  "Origin": "PHX",
+  "Dest": "LAX",
+  "from_city": "Phoenix, AZ",
+  "to_city": "Los Angeles, CA",
+  "distance": 370.0,
+  "flights": 3939
+ },
+ {
+  "r": "SEA-ANC",
+  "Origin": "SEA",
+  "Dest": "ANC",
+  "from_city": "Seattle, WA",
+  "to_city": "Anchorage, AK",
+  "distance": 1448.0,
+  "flights": 4100
+ },
+ {
+  "r": "SEA-PDX",
+  "Origin": "SEA",
+  "Dest": "PDX",
+  "from_city": "Seattle, WA",
+  "to_city": "Portland, OR",
+  "distance": 129.0,
+  "flights": 4471
+ },
+ {
+  "r": "SFO-JFK",
+  "Origin": "SFO",
+  "Dest": "JFK",
+  "from_city": "San Francisco, CA",
+  "to_city": "New York, NY",
+  "distance": 2586.0,
+  "flights": 3951
+ },
+ {
+  "r": "SFO-LAX",
+  "Origin": "SFO",
+  "Dest": "LAX",
+  "from_city": "San Francisco, CA",
+  "to_city": "Los Angeles, CA",
+  "distance": 337.0,
+  "flights": 6478
+ },
+ {
+  "r": "SLC-DEN",
+  "Origin": "SLC",
+  "Dest": "DEN",
+  "from_city": "Salt Lake City, UT",
+  "to_city": "Denver, CO",
+  "distance": 391.0,
+  "flights": 4070
+ }
+]

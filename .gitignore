@@ -1,0 +1,18 @@
+# Big data - too large for GitHub
+data/raw/
+data/processed/
+models/
+
+# Python
+venv/
+__pycache__/
+
+# Website build files
+web/node_modules/
+web/.next/
+
+# Logs
+*.log
+spark-warehouse/
+metastore_db/
+derby.log

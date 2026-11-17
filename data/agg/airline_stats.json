@@ -1,0 +1,212 @@
+[
+ {
+  "Airline": "Southwest Airlines Co.",
+  "flights": 731925,
+  "delay_rate": 24.87,
+  "cancel_rate": 2.48,
+  "divert_rate": 0.21,
+  "avg_dep_delay": 14.6,
+  "avg_taxi_out": 12.5,
+  "airports_served": 107
+ },
+ {
+  "Airline": "Delta Air Lines Inc.",
+  "flights": 512114,
+  "delay_rate": 17.35,
+  "cancel_rate": 2.02,
+  "divert_rate": 0.21,
+  "avg_dep_delay": 11.4,
+  "avg_taxi_out": 16.2,
+  "airports_served": 144
+ },
+ {
+  "Airline": "American Airlines Inc.",
+  "flights": 495953,
+  "delay_rate": 22.67,
+  "cancel_rate": 3.78,
+  "divert_rate": 0.27,
+  "avg_dep_delay": 14.9,
+  "avg_taxi_out": 17.8,
+  "airports_served": 121
+ },
+ {
+  "Airline": "SkyWest Airlines Inc.",
+  "flights": 440807,
+  "delay_rate": 17.14,
+  "cancel_rate": 2.11,
+  "divert_rate": 0.27,
+  "avg_dep_delay": 11.2,
+  "avg_taxi_out": 17.9,
+  "airports_served": 265
+ },
+ {
+  "Airline": "United Air Lines Inc.",
+  "flights": 352009,
+  "delay_rate": 20.66,
+  "cancel_rate": 2.29,
+  "divert_rate": 0.29,
+  "avg_dep_delay": 13.7,
+  "avg_taxi_out": 18.5,
+  "airports_served": 117
+ },
+ {
+  "Airline": "Republic Airlines",
+  "flights": 197881,
+  "delay_rate": 21.84,
+  "cancel_rate": 5.78,
+  "divert_rate": 0.3,
+  "avg_dep_delay": 10.8,
+  "avg_taxi_out": 21.3,
+  "airports_served": 98
+ },
+ {
+  "Airline": "JetBlue Airways",
+  "flights": 156793,
+  "delay_rate": 33.64,
+  "cancel_rate": 4.87,
+  "divert_rate": 0.4,
+  "avg_dep_delay": 26.0,
+  "avg_taxi_out": 19.0,
+  "airports_served": 71
+ },
+ {
+  "Airline": "Envoy Air",
+  "flights": 150758,
+  "delay_rate": 16.79,
+  "cancel_rate": 2.58,
+  "divert_rate": 0.25,
+  "avg_dep_delay": 6.9,
+  "avg_taxi_out": 16.9,
+  "airports_served": 162
+ },
+ {
+  "Airline": "Endeavor Air Inc.",
+  "flights": 142624,
+  "delay_rate": 16.5,
+  "cancel_rate": 4.08,
+  "divert_rate": 0.22,
+  "avg_dep_delay": 9.7,
+  "avg_taxi_out": 19.6,
+  "airports_served": 119
+ },
+ {
+  "Airline": "Comair Inc.",
+  "flights": 135884,
+  "delay_rate": 22.06,
+  "cancel_rate": 3.94,
+  "divert_rate": 0.29,
+  "avg_dep_delay": 12.7,
+  "avg_taxi_out": 20.9,
+  "airports_served": 105
+ },
+ {
+  "Airline": "Alaska Airlines Inc.",
+  "flights": 129510,
+  "delay_rate": 19.57,
+  "cancel_rate": 2.89,
+  "divert_rate": 0.27,
+  "avg_dep_delay": 5.9,
+  "avg_taxi_out": 19.1,
+  "airports_served": 84
+ },
+ {
+  "Airline": "Spirit Air Lines",
+  "flights": 129208,
+  "delay_rate": 26.75,
+  "cancel_rate": 3.25,
+  "divert_rate": 0.19,
+  "avg_dep_delay": 15.6,
+  "avg_taxi_out": 15.8,
+  "airports_served": 58
+ },
+ {
+  "Airline": "Frontier Airlines Inc.",
+  "flights": 86557,
+  "delay_rate": 32.2,
+  "cancel_rate": 2.89,
+  "divert_rate": 0.19,
+  "avg_dep_delay": 20.1,
+  "avg_taxi_out": 17.7,
+  "airports_served": 103
+ },
+ {
+  "Airline": "Allegiant Air",
+  "flights": 73504,
+  "delay_rate": 35.82,
+  "cancel_rate": 3.93,
+  "divert_rate": 0.22,
+  "avg_dep_delay": 19.1,
+  "avg_taxi_out": 14.2,
+  "airports_served": 132
+ },
+ {
+  "Airline": "Mesa Airlines Inc.",
+  "flights": 71972,
+  "delay_rate": 19.33,
+  "cancel_rate": 4.11,
+  "divert_rate": 0.22,
+  "avg_dep_delay": 15.7,
+  "avg_taxi_out": 16.8,
+  "airports_served": 125
+ },
+ {
+  "Airline": "Horizon Air",
+  "flights": 56320,
+  "delay_rate": 16.6,
+  "cancel_rate": 1.74,
+  "divert_rate": 0.18,
+  "avg_dep_delay": 5.9,
+  "avg_taxi_out": 12.9,
+  "airports_served": 56
+ },
+ {
+  "Airline": "Capital Cargo International",
+  "flights": 52827,
+  "delay_rate": 15.64,
+  "cancel_rate": 2.8,
+  "divert_rate": 0.39,
+  "avg_dep_delay": 6.0,
+  "avg_taxi_out": 22.6,
+  "airports_served": 72
+ },
+ {
+  "Airline": "Commutair Aka Champlain Enterprises, Inc.",
+  "flights": 44367,
+  "delay_rate": 19.75,
+  "cancel_rate": 3.42,
+  "divert_rate": 0.3,
+  "avg_dep_delay": 12.1,
+  "avg_taxi_out": 19.7,
+  "airports_served": 84
+ },
+ {
+  "Airline": "Hawaiian Airlines Inc.",
+  "flights": 42212,
+  "delay_rate": 17.32,
+  "cancel_rate": 0.83,
+  "divert_rate": 0.09,
+  "avg_dep_delay": 6.6,
+  "avg_taxi_out": 12.1,
+  "airports_served": 22
+ },
+ {
+  "Airline": "Air Wisconsin Airlines Corp",
+  "flights": 40300,
+  "delay_rate": 15.94,
+  "cancel_rate": 3.54,
+  "divert_rate": 0.25,
+  "avg_dep_delay": 7.9,
+  "avg_taxi_out": 20.6,
+  "airports_served": 82
+ },
+ {
+  "Airline": "GoJet Airlines, LLC d/b/a United Express",
+  "flights": 34793,
+  "delay_rate": 26.53,
+  "cancel_rate": 6.96,
+  "divert_rate": 0.24,
+  "avg_dep_delay": 16.7,
+  "avg_taxi_out": 23.6,
+  "airports_served": 67
+ }
+]

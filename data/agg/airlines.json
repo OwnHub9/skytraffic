@@ -1,0 +1,128 @@
+[
+ {
+  "Airline":"Allegiant Air",
+  "flights":70452,
+  "delay_rate":35.82,
+  "avg_arr_delay":20.5
+ },
+ {
+  "Airline":"JetBlue Airways",
+  "flights":148527,
+  "delay_rate":33.64,
+  "avg_arr_delay":20.0
+ },
+ {
+  "Airline":"Frontier Airlines Inc.",
+  "flights":83894,
+  "delay_rate":32.2,
+  "avg_arr_delay":17.2
+ },
+ {
+  "Airline":"Spirit Air Lines",
+  "flights":124760,
+  "delay_rate":26.75,
+  "avg_arr_delay":12.2
+ },
+ {
+  "Airline":"GoJet Airlines, LLC d\/b\/a United Express",
+  "flights":32288,
+  "delay_rate":26.53,
+  "avg_arr_delay":12.9
+ },
+ {
+  "Airline":"Southwest Airlines Co.",
+  "flights":712246,
+  "delay_rate":24.87,
+  "avg_arr_delay":7.2
+ },
+ {
+  "Airline":"American Airlines Inc.",
+  "flights":475871,
+  "delay_rate":22.67,
+  "avg_arr_delay":9.5
+ },
+ {
+  "Airline":"Comair Inc.",
+  "flights":130135,
+  "delay_rate":22.06,
+  "avg_arr_delay":9.3
+ },
+ {
+  "Airline":"Republic Airlines",
+  "flights":185842,
+  "delay_rate":21.84,
+  "avg_arr_delay":7.2
+ },
+ {
+  "Airline":"United Air Lines Inc.",
+  "flights":342929,
+  "delay_rate":20.66,
+  "avg_arr_delay":6.6
+ },
+ {
+  "Airline":"Commutair Aka Champlain Enterprises, Inc.",
+  "flights":42715,
+  "delay_rate":19.75,
+  "avg_arr_delay":8.0
+ },
+ {
+  "Airline":"Alaska Airlines Inc.",
+  "flights":125419,
+  "delay_rate":19.57,
+  "avg_arr_delay":3.2
+ },
+ {
+  "Airline":"Mesa Airlines Inc.",
+  "flights":68859,
+  "delay_rate":19.33,
+  "avg_arr_delay":8.8
+ },
+ {
+  "Airline":"Delta Air Lines Inc.",
+  "flights":500710,
+  "delay_rate":17.35,
+  "avg_arr_delay":3.9
+ },
+ {
+  "Airline":"Hawaiian Airlines Inc.",
+  "flights":41821,
+  "delay_rate":17.32,
+  "avg_arr_delay":4.5
+ },
+ {
+  "Airline":"SkyWest Airlines Inc.",
+  "flights":430311,
+  "delay_rate":17.14,
+  "avg_arr_delay":6.0
+ },
+ {
+  "Airline":"Envoy Air",
+  "flights":146496,
+  "delay_rate":16.79,
+  "avg_arr_delay":2.4
+ },
+ {
+  "Airline":"Horizon Air",
+  "flights":55240,
+  "delay_rate":16.6,
+  "avg_arr_delay":4.3
+ },
+ {
+  "Airline":"Endeavor Air Inc.",
+  "flights":136487,
+  "delay_rate":16.5,
+  "avg_arr_delay":4.2
+ },
+ {
+  "Airline":"Air Wisconsin Airlines Corp",
+  "flights":38774,
+  "delay_rate":15.94,
+  "avg_arr_delay":1.8
+ },
+ {
+  "Airline":"Capital Cargo International",
+  "flights":51140,
+  "delay_rate":15.64,
+  "avg_arr_delay":2.6
+ }
+]

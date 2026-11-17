@@ -1,0 +1,51 @@
+[
+ {
+  "Month": 1,
+  "flights": 563737,
+  "delay_rate": 19.46,
+  "cancel_rate": 6.33,
+  "avg_arr_delay": 4.2
+ },
+ {
+  "Month": 2,
+  "flights": 519952,
+  "delay_rate": 19.63,
+  "cancel_rate": 4.5,
+  "avg_arr_delay": 4.8
+ },
+ {
+  "Month": 3,
+  "flights": 590542,
+  "delay_rate": 21.44,
+  "cancel_rate": 1.54,
+  "avg_arr_delay": 7.0
+ },
+ {
+  "Month": 4,
+  "flights": 580290,
+  "delay_rate": 22.05,
+  "cancel_rate": 2.31,
+  "avg_arr_delay": 8.3
+ },
+ {
+  "Month": 5,
+  "flights": 602950,
+  "delay_rate": 21.03,
+  "cancel_rate": 1.99,
+  "avg_arr_delay": 7.4
+ },
+ {
+  "Month": 6,
+  "flights": 602057,
+  "delay_rate": 23.9,
+  "cancel_rate": 3.07,
+  "avg_arr_delay": 10.6
+ },
+ {
+  "Month": 7,
+  "flights": 618790,
+  "delay_rate": 23.46,
+  "cancel_rate": 1.8,
+  "avg_arr_delay": 9.7
+ }
+]

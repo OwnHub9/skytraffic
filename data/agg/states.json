@@ -1,0 +1,380 @@
+[
+ {
+  "state": "TX",
+  "flights": 426204,
+  "delay_rate": 21.44,
+  "cancel_rate": 2.98,
+  "airports": 26
+ },
+ {
+  "state": "CA",
+  "flights": 419384,
+  "delay_rate": 17.46,
+  "cancel_rate": 1.7,
+  "airports": 22
+ },
+ {
+  "state": "FL",
+  "flights": 359101,
+  "delay_rate": 27.32,
+  "cancel_rate": 3.3,
+  "airports": 19
+ },
+ {
+  "state": "NY",
+  "flights": 233648,
+  "delay_rate": 24.77,
+  "cancel_rate": 5.56,
+  "airports": 16
+ },
+ {
+  "state": "IL",
+  "flights": 223480,
+  "delay_rate": 23.56,
+  "cancel_rate": 3.13,
+  "airports": 10
+ },
+ {
+  "state": "GA",
+  "flights": 200419,
+  "delay_rate": 19.8,
+  "cancel_rate": 1.96,
+  "airports": 7
+ },
+ {
+  "state": "CO",
+  "flights": 180712,
+  "delay_rate": 27.01,
+  "cancel_rate": 2.96,
+  "airports": 11
+ },
+ {
+  "state": "NC",
+  "flights": 180558,
+  "delay_rate": 21.06,
+  "cancel_rate": 3.49,
+  "airports": 10
+ },
+ {
+  "state": "DC",
+  "flights": 129456,
+  "delay_rate": 23.92,
+  "cancel_rate": 4.64,
+  "airports": 2
+ },
+ {
+  "state": "WA",
+  "flights": 120358,
+  "delay_rate": 16.4,
+  "cancel_rate": 1.98,
+  "airports": 9
+ },
+ {
+  "state": "AZ",
+  "flights": 111823,
+  "delay_rate": 20.36,
+  "cancel_rate": 1.75,
+  "airports": 6
+ },
+ {
+  "state": "NV",
+  "flights": 108957,
+  "delay_rate": 24.6,
+  "cancel_rate": 1.92,
+  "airports": 3
+ },
+ {
+  "state": "PA",
+  "flights": 98571,
+  "delay_rate": 20.3,
+  "cancel_rate": 3.4,
+  "airports": 9
+ },
+ {
+  "state": "MI",
+  "flights": 97853,
+  "delay_rate": 19.61,
+  "cancel_rate": 2.66,
+  "airports": 15
+ },
+ {
+  "state": "NJ",
+  "flights": 90901,
+  "delay_rate": 29.23,
+  "cancel_rate": 6.29,
+  "airports": 3
+ },
+ {
+  "state": "MA",
+  "flights": 81454,
+  "delay_rate": 23.38,
+  "cancel_rate": 4.53,
+  "airports": 5
+ },
+ {
+  "state": "OH",
+  "flights": 78931,
+  "delay_rate": 20.7,
+  "cancel_rate": 3.83,
+  "airports": 7
+ },
+ {
+  "state": "TN",
+  "flights": 77453,
+  "delay_rate": 20.68,
+  "cancel_rate": 3.07,
+  "airports": 5
+ },
+ {
+  "state": "MN",
+  "flights": 74572,
+  "delay_rate": 19.59,
+  "cancel_rate": 1.76,
+  "airports": 8
+ },
+ {
+  "state": "HI",
+  "flights": 70502,
+  "delay_rate": 17.77,
+  "cancel_rate": 0.91,
+  "airports": 5
+ },
+ {
+  "state": "MO",
+  "flights": 68464,
+  "delay_rate": 20.78,
+  "cancel_rate": 3.53,
+  "airports": 8
+ },
+ {
+  "state": "UT",
+  "flights": 67598,
+  "delay_rate": 15.88,
+  "cancel_rate": 1.16,
+  "airports": 7
+ },
+ {
+  "state": "MD",
+  "flights": 49520,
+  "delay_rate": 29.44,
+  "cancel_rate": 3.6,
+  "airports": 3
+ },
+ {
+  "state": "OR",
+  "flights": 48878,
+  "delay_rate": 15.08,
+  "cancel_rate": 1.73,
+  "airports": 5
+ },
+ {
+  "state": "LA",
+  "flights": 40649,
+  "delay_rate": 20.64,
+  "cancel_rate": 2.41,
+  "airports": 7
+ },
+ {
+  "state": "SC",
+  "flights": 39793,
+  "delay_rate": 20.01,
+  "cancel_rate": 3.44,
+  "airports": 6
+ },
+ {
+  "state": "VA",
+  "flights": 36850,
+  "delay_rate": 19.16,
+  "cancel_rate": 4.14,
+  "airports": 7
+ },
+ {
+  "state": "IN",
+  "flights": 33493,
+  "delay_rate": 20.55,
+  "cancel_rate": 3.49,
+  "airports": 4
+ },
+ {
+  "state": "WI",
+  "flights": 32156,
+  "delay_rate": 17.91,
+  "cancel_rate": 2.7,
+  "airports": 8
+ },
+ {
+  "state": "AK",
+  "flights": 24362,
+  "delay_rate": 16.96,
+  "cancel_rate": 3.09,
+  "airports": 19
+ },
+ {
+  "state": "OK",
+  "flights": 22295,
+  "delay_rate": 16.37,
+  "cancel_rate": 2.99,
+  "airports": 4
+ },
+ {
+  "state": "ID",
+  "flights": 19700,
+  "delay_rate": 14.65,
+  "cancel_rate": 1.26,
+  "airports": 6
+ },
+ {
+  "state": "PR",
+  "flights": 19620,
+  "delay_rate": 26.34,
+  "cancel_rate": 2.49,
+  "airports": 3
+ },
+ {
+  "state": "AL",
+  "flights": 19418,
+  "delay_rate": 19.27,
+  "cancel_rate": 2.56,
+  "airports": 5
+ },
+ {
+  "state": "KY",
+  "flights": 19390,
+  "delay_rate": 19.43,
+  "cancel_rate": 3.67,
+  "airports": 4
+ },
+ {
+  "state": "MT",
+  "flights": 16491,
+  "delay_rate": 17.15,
+  "cancel_rate": 1.65,
+  "airports": 8
+ },
+ {
+  "state": "AR",
+  "flights": 15857,
+  "delay_rate": 18.39,
+  "cancel_rate": 2.85,
+  "airports": 4
+ },
+ {
+  "state": "IA",
+  "flights": 15781,
+  "delay_rate": 16.96,
+  "cancel_rate": 2.48,
+  "airports": 7
+ },
+ {
+  "state": "NE",
+  "flights": 15733,
+  "delay_rate": 18.26,
+  "cancel_rate": 2.43,
+  "airports": 6
+ },
+ {
+  "state": "NM",
+  "flights": 14255,
+  "delay_rate": 18.04,
+  "cancel_rate": 2.0,
+  "airports": 4
+ },
+ {
+  "state": "CT",
+  "flights": 13661,
+  "delay_rate": 21.99,
+  "cancel_rate": 4.41,
+  "airports": 1
+ },
+ {
+  "state": "ME",
+  "flights": 10224,
+  "delay_rate": 22.83,
+  "cancel_rate": 6.93,
+  "airports": 3
+ },
+ {
+  "state": "ND",
+  "flights": 10167,
+  "delay_rate": 21.65,
+  "cancel_rate": 4.93,
+  "airports": 8
+ },
+ {
+  "state": "RI",
+  "flights": 9518,
+  "delay_rate": 23.21,
+  "cancel_rate": 4.97,
+  "airports": 1
+ },
+ {
+  "state": "KS",
+  "flights": 8743,
+  "delay_rate": 16.63,
+  "cancel_rate": 2.73,
+  "airports": 7
+ },
+ {
+  "state": "MS",
+  "flights": 8723,
+  "delay_rate": 15.1,
+  "cancel_rate": 1.94,
+  "airports": 5
+ },
+ {
+  "state": "SD",
+  "flights": 7602,
+  "delay_rate": 19.91,
+  "cancel_rate": 2.7,
+  "airports": 5
+ },
+ {
+  "state": "WY",
+  "flights": 6057,
+  "delay_rate": 21.44,
+  "cancel_rate": 3.2,
+  "airports": 9
+ },
+ {
+  "state": "VT",
+  "flights": 5595,
+  "delay_rate": 20.37,
+  "cancel_rate": 5.97,
+  "airports": 1
+ },
+ {
+  "state": "NH",
+  "flights": 4647,
+  "delay_rate": 23.83,
+  "cancel_rate": 4.82,
+  "airports": 2
+ },
+ {
+  "state": "VI",
+  "flights": 4351,
+  "delay_rate": 23.77,
+  "cancel_rate": 1.68,
+  "airports": 2
+ },
+ {
+  "state": "WV",
+  "flights": 3664,
+  "delay_rate": 22.51,
+  "cancel_rate": 4.01,
+  "airports": 4
+ },
+ {
+  "state": "TT",
+  "flights": 679,
+  "delay_rate": 8.26,
+  "cancel_rate": 0.15,
+  "airports": 3
+ },
+ {
+  "state": "DE",
+  "flights": 47,
+  "delay_rate": 52.38,
+  "cancel_rate": 10.64,
+  "airports": 1
+ }
+]

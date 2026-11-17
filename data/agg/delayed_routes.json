@@ -1,0 +1,122 @@
+[
+ {
+  "Origin": "LGA",
+  "Dest": "MCO",
+  "flights": 2266,
+  "delay_rate": 38.75,
+  "avg_arr_delay": 24.3,
+  "distance": 950.0
+ },
+ {
+  "Origin": "MCO",
+  "Dest": "JFK",
+  "flights": 2700,
+  "delay_rate": 38.41,
+  "avg_arr_delay": 29.2,
+  "distance": 944.0
+ },
+ {
+  "Origin": "PBI",
+  "Dest": "EWR",
+  "flights": 1788,
+  "delay_rate": 38.2,
+  "avg_arr_delay": 25.5,
+  "distance": 1023.0
+ },
+ {
+  "Origin": "JFK",
+  "Dest": "MCO",
+  "flights": 2705,
+  "delay_rate": 38.08,
+  "avg_arr_delay": 26.2,
+  "distance": 944.0
+ },
+ {
+  "Origin": "EWR",
+  "Dest": "PBI",
+  "flights": 1796,
+  "delay_rate": 37.42,
+  "avg_arr_delay": 22.1,
+  "distance": 1023.0
+ },
+ {
+  "Origin": "JFK",
+  "Dest": "SJU",
+  "flights": 1830,
+  "delay_rate": 36.89,
+  "avg_arr_delay": 20.1,
+  "distance": 1598.0
+ },
+ {
+  "Origin": "FLL",
+  "Dest": "BOS",
+  "flights": 1608,
+  "delay_rate": 36.69,
+  "avg_arr_delay": 25.5,
+  "distance": 1237.0
+ },
+ {
+  "Origin": "FLL",
+  "Dest": "EWR",
+  "flights": 2881,
+  "delay_rate": 36.58,
+  "avg_arr_delay": 26.9,
+  "distance": 1065.0
+ },
+ {
+  "Origin": "MCO",
+  "Dest": "LGA",
+  "flights": 2258,
+  "delay_rate": 36.4,
+  "avg_arr_delay": 23.4,
+  "distance": 950.0
+ },
+ {
+  "Origin": "DEN",
+  "Dest": "MCO",
+  "flights": 2178,
+  "delay_rate": 35.81,
+  "avg_arr_delay": 17.7,
+  "distance": 1546.0
+ },
+ {
+  "Origin": "DEN",
+  "Dest": "DAL",
+  "flights": 1539,
+  "delay_rate": 35.35,
+  "avg_arr_delay": 14.9,
+  "distance": 651.0
+ },
+ {
+  "Origin": "JFK",
+  "Dest": "FLL",
+  "flights": 2720,
+  "delay_rate": 35.07,
+  "avg_arr_delay": 21.2,
+  "distance": 1069.0
+ },
+ {
+  "Origin": "MIA",
+  "Dest": "EWR",
+  "flights": 2648,
+  "delay_rate": 35.05,
+  "avg_arr_delay": 22.9,
+  "distance": 1085.0
+ },
+ {
+  "Origin": "LGA",
+  "Dest": "FLL",
+  "flights": 2473,
+  "delay_rate": 34.82,
+  "avg_arr_delay": 19.4,
+  "distance": 1076.0
+ },
+ {
+  "Origin": "BOS",
+  "Dest": "FLL",
+  "flights": 1600,
+  "delay_rate": 34.81,
+  "avg_arr_delay": 19.7,
+  "distance": 1237.0
+ }
+]

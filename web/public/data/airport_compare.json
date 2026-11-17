@@ -1,0 +1,1142 @@
+[
+ {
+  "Origin": "ATL",
+  "city": "Atlanta, GA",
+  "flights": 183697,
+  "delay_rate": 19.71,
+  "avg_dep_delay": 11.7,
+  "avg_taxi_out": 15.4,
+  "cancel_rate": 1.87,
+  "destinations": 154
+ },
+ {
+  "Origin": "ORD",
+  "city": "Chicago, IL",
+  "flights": 172169,
+  "delay_rate": 21.87,
+  "avg_dep_delay": 12.3,
+  "avg_taxi_out": 21.1,
+  "cancel_rate": 3.22,
+  "destinations": 184
+ },
+ {
+  "Origin": "DFW",
+  "city": "Dallas/Fort Worth, TX",
+  "flights": 161218,
+  "delay_rate": 22.71,
+  "avg_dep_delay": 13.5,
+  "avg_taxi_out": 17.8,
+  "cancel_rate": 3.49,
+  "destinations": 188
+ },
+ {
+  "Origin": "DEN",
+  "city": "Denver, CO",
+  "flights": 158092,
+  "delay_rate": 27.7,
+  "avg_dep_delay": 17.8,
+  "avg_taxi_out": 17.5,
+  "cancel_rate": 2.78,
+  "destinations": 183
+ },
+ {
+  "Origin": "CLT",
+  "city": "Charlotte, NC",
+  "flights": 126088,
+  "delay_rate": 21.7,
+  "avg_dep_delay": 11.4,
+  "avg_taxi_out": 21.3,
+  "cancel_rate": 3.33,
+  "destinations": 144
+ },
+ {
+  "Origin": "LAX",
+  "city": "Los Angeles, CA",
+  "flights": 111935,
+  "delay_rate": 18.05,
+  "avg_dep_delay": 10.2,
+  "avg_taxi_out": 16.2,
+  "cancel_rate": 1.71,
+  "destinations": 105
+ },
+ {
+  "Origin": "LGA",
+  "city": "New York, NY",
+  "flights": 100260,
+  "delay_rate": 23.81,
+  "avg_dep_delay": 15.9,
+  "avg_taxi_out": 24.8,
+  "cancel_rate": 6.53,
+  "destinations": 82
+ },
+ {
+  "Origin": "SEA",
+  "city": "Seattle, WA",
+  "flights": 98884,
+  "delay_rate": 16.88,
+  "avg_dep_delay": 8.1,
+  "avg_taxi_out": 18.1,
+  "cancel_rate": 2.02,
+  "destinations": 93
+ },
+ {
+  "Origin": "LAS",
+  "city": "Las Vegas, NV",
+  "flights": 97674,
+  "delay_rate": 25.51,
+  "avg_dep_delay": 14.7,
+  "avg_taxi_out": 16.2,
+  "cancel_rate": 1.99,
+  "destinations": 124
+ },
+ {
+  "Origin": "PHX",
+  "city": "Phoenix, AZ",
+  "flights": 96095,
+  "delay_rate": 20.82,
+  "avg_dep_delay": 12.2,
+  "avg_taxi_out": 14.2,
+  "cancel_rate": 1.7,
+  "destinations": 108
+ },
+ {
+  "Origin": "EWR",
+  "city": "Newark, NJ",
+  "flights": 87415,
+  "delay_rate": 29.3,
+  "avg_dep_delay": 20.9,
+  "avg_taxi_out": 24.1,
+  "cancel_rate": 6.36,
+  "destinations": 91
+ },
+ {
+  "Origin": "IAH",
+  "city": "Houston, TX",
+  "flights": 87020,
+  "delay_rate": 18.82,
+  "avg_dep_delay": 12.3,
+  "avg_taxi_out": 17.9,
+  "cancel_rate": 2.31,
+  "destinations": 120
+ },
+ {
+  "Origin": "DCA",
+  "city": "Washington, DC",
+  "flights": 85966,
+  "delay_rate": 25.09,
+  "avg_dep_delay": 15.3,
+  "avg_taxi_out": 21.0,
+  "cancel_rate": 5.13,
+  "destinations": 99
+ },
+ {
+  "Origin": "MCO",
+  "city": "Orlando, FL",
+  "flights": 85043,
+  "delay_rate": 29.99,
+  "avg_dep_delay": 20.2,
+  "avg_taxi_out": 18.1,
+  "cancel_rate": 2.88,
+  "destinations": 93
+ },
+ {
+  "Origin": "JFK",
+  "city": "New York, NY",
+  "flights": 79127,
+  "delay_rate": 27.29,
+  "avg_dep_delay": 19.7,
+  "avg_taxi_out": 26.2,
+  "cancel_rate": 4.73,
+  "destinations": 72
+ },
+ {
+  "Origin": "BOS",
+  "city": "Boston, MA",
+  "flights": 78782,
+  "delay_rate": 23.31,
+  "avg_dep_delay": 14.3,
+  "avg_taxi_out": 19.7,
+  "cancel_rate": 4.45,
+  "destinations": 80
+ },
+ {
+  "Origin": "DTW",
+  "city": "Detroit, MI",
+  "flights": 75901,
+  "delay_rate": 19.32,
+  "avg_dep_delay": 12.8,
+  "avg_taxi_out": 17.0,
+  "cancel_rate": 2.43,
+  "destinations": 101
+ },
+ {
+  "Origin": "SFO",
+  "city": "San Francisco, CA",
+  "flights": 74927,
+  "delay_rate": 14.98,
+  "avg_dep_delay": 9.1,
+  "avg_taxi_out": 17.6,
+  "cancel_rate": 1.78,
+  "destinations": 81
+ },
+ {
+  "Origin": "MSP",
+  "city": "Minneapolis, MN",
+  "flights": 70553,
+  "delay_rate": 19.85,
+  "avg_dep_delay": 12.3,
+  "avg_taxi_out": 17.5,
+  "cancel_rate": 1.73,
+  "destinations": 118
+ },
+ {
+  "Origin": "MIA",
+  "city": "Miami, FL",
+  "flights": 66126,
+  "delay_rate": 27.52,
+  "avg_dep_delay": 17.8,
+  "avg_taxi_out": 20.4,
+  "cancel_rate": 3.39,
+  "destinations": 84
+ },
+ {
+  "Origin": "SLC",
+  "city": "Salt Lake City, UT",
+  "flights": 64250,
+  "delay_rate": 15.89,
+  "avg_dep_delay": 9.4,
+  "avg_taxi_out": 17.3,
+  "cancel_rate": 1.14,
+  "destinations": 88
+ },
+ {
+  "Origin": "PHL",
+  "city": "Philadelphia, PA",
+  "flights": 61252,
+  "delay_rate": 21.23,
+  "avg_dep_delay": 11.1,
+  "avg_taxi_out": 21.7,
+  "cancel_rate": 3.26,
+  "destinations": 98
+ },
+ {
+  "Origin": "AUS",
+  "city": "Austin, TX",
+  "flights": 51667,
+  "delay_rate": 22.3,
+  "avg_dep_delay": 13.8,
+  "avg_taxi_out": 13.9,
+  "cancel_rate": 3.05,
+  "destinations": 81
+ },
+ {
+  "Origin": "FLL",
+  "city": "Fort Lauderdale, FL",
+  "flights": 51199,
+  "delay_rate": 28.06,
+  "avg_dep_delay": 19.3,
+  "avg_taxi_out": 17.7,
+  "cancel_rate": 3.28,
+  "destinations": 90
+ },
+ {
+  "Origin": "BNA",
+  "city": "Nashville, TN",
+  "flights": 49130,
+  "delay_rate": 21.17,
+  "avg_dep_delay": 12.8,
+  "avg_taxi_out": 13.7,
+  "cancel_rate": 3.18,
+  "destinations": 85
+ },
+ {
+  "Origin": "BWI",
+  "city": "Baltimore, MD",
+  "flights": 48679,
+  "delay_rate": 29.61,
+  "avg_dep_delay": 18.9,
+  "avg_taxi_out": 13.6,
+  "cancel_rate": 3.61,
+  "destinations": 68
+ },
+ {
+  "Origin": "SAN",
+  "city": "San Diego, CA",
+  "flights": 47217,
+  "delay_rate": 18.48,
+  "avg_dep_delay": 8.4,
+  "avg_taxi_out": 17.2,
+  "cancel_rate": 1.51,
+  "destinations": 66
+ },
+ {
+  "Origin": "TPA",
+  "city": "Tampa, FL",
+  "flights": 44041,
+  "delay_rate": 23.67,
+  "avg_dep_delay": 15.5,
+  "avg_taxi_out": 15.4,
+  "cancel_rate": 3.2,
+  "destinations": 66
+ },
+ {
+  "Origin": "IAD",
+  "city": "Washington, DC",
+  "flights": 43490,
+  "delay_rate": 21.62,
+  "avg_dep_delay": 14.8,
+  "avg_taxi_out": 20.2,
+  "cancel_rate": 3.68,
+  "destinations": 94
+ },
+ {
+  "Origin": "MDW",
+  "city": "Chicago, IL",
+  "flights": 41318,
+  "delay_rate": 31.49,
+  "avg_dep_delay": 20.0,
+  "avg_taxi_out": 11.9,
+  "cancel_rate": 2.64,
+  "destinations": 80
+ },
+ {
+  "Origin": "DAL",
+  "city": "Dallas, TX",
+  "flights": 37433,
+  "delay_rate": 26.59,
+  "avg_dep_delay": 16.6,
+  "avg_taxi_out": 11.8,
+  "cancel_rate": 3.46,
+  "destinations": 70
+ },
+ {
+  "Origin": "STL",
+  "city": "St. Louis, MO",
+  "flights": 35911,
+  "delay_rate": 22.55,
+  "avg_dep_delay": 13.9,
+  "avg_taxi_out": 12.2,
+  "cancel_rate": 3.8,
+  "destinations": 60
+ },
+ {
+  "Origin": "PDX",
+  "city": "Portland, OR",
+  "flights": 34104,
+  "delay_rate": 15.18,
+  "avg_dep_delay": 7.2,
+  "avg_taxi_out": 13.1,
+  "cancel_rate": 1.78,
+  "destinations": 58
+ },
+ {
+  "Origin": "HNL",
+  "city": "Honolulu, HI",
+  "flights": 31507,
+  "delay_rate": 17.49,
+  "avg_dep_delay": 7.9,
+  "avg_taxi_out": 15.6,
+  "cancel_rate": 0.86,
+  "destinations": 34
+ },
+ {
+  "Origin": "RDU",
+  "city": "Raleigh/Durham, NC",
+  "flights": 31492,
+  "delay_rate": 20.59,
+  "avg_dep_delay": 13.9,
+  "avg_taxi_out": 16.9,
+  "cancel_rate": 3.89,
+  "destinations": 47
+ },
+ {
+  "Origin": "SMF",
+  "city": "Sacramento, CA",
+  "flights": 30171,
+  "delay_rate": 16.9,
+  "avg_dep_delay": 8.7,
+  "avg_taxi_out": 12.3,
+  "cancel_rate": 1.39,
+  "destinations": 35
+ },
+ {
+  "Origin": "SJC",
+  "city": "San Jose, CA",
+  "flights": 29251,
+  "delay_rate": 17.26,
+  "avg_dep_delay": 7.6,
+  "avg_taxi_out": 12.6,
+  "cancel_rate": 1.47,
+  "destinations": 34
+ },
+ {
+  "Origin": "HOU",
+  "city": "Houston, TX",
+  "flights": 28538,
+  "delay_rate": 24.71,
+  "avg_dep_delay": 14.7,
+  "avg_taxi_out": 11.0,
+  "cancel_rate": 1.98,
+  "destinations": 77
+ },
+ {
+  "Origin": "MSY",
+  "city": "New Orleans, LA",
+  "flights": 27654,
+  "delay_rate": 21.86,
+  "avg_dep_delay": 13.8,
+  "avg_taxi_out": 12.5,
+  "cancel_rate": 2.57,
+  "destinations": 42
+ },
+ {
+  "Origin": "SNA",
+  "city": "Santa Ana, CA",
+  "flights": 26795,
+  "delay_rate": 19.63,
+  "avg_dep_delay": 9.2,
+  "avg_taxi_out": 14.0,
+  "cancel_rate": 2.15,
+  "destinations": 40
+ },
+ {
+  "Origin": "OAK",
+  "city": "Oakland, CA",
+  "flights": 26610,
+  "delay_rate": 19.15,
+  "avg_dep_delay": 9.7,
+  "avg_taxi_out": 11.9,
+  "cancel_rate": 1.29,
+  "destinations": 39
+ },
+ {
+  "Origin": "MCI",
+  "city": "Kansas City, MO",
+  "flights": 25493,
+  "delay_rate": 18.87,
+  "avg_dep_delay": 11.2,
+  "avg_taxi_out": 12.8,
+  "cancel_rate": 3.16,
+  "destinations": 47
+ },
+ {
+  "Origin": "IND",
+  "city": "Indianapolis, IN",
+  "flights": 25022,
+  "delay_rate": 20.49,
+  "avg_dep_delay": 10.9,
+  "avg_taxi_out": 15.0,
+  "cancel_rate": 3.68,
+  "destinations": 47
+ },
+ {
+  "Origin": "RSW",
+  "city": "Fort Myers, FL",
+  "flights": 24431,
+  "delay_rate": 28.0,
+  "avg_dep_delay": 17.8,
+  "avg_taxi_out": 15.8,
+  "cancel_rate": 3.86,
+  "destinations": 50
+ },
+ {
+  "Origin": "PIT",
+  "city": "Pittsburgh, PA",
+  "flights": 24078,
+  "delay_rate": 19.07,
+  "avg_dep_delay": 9.7,
+  "avg_taxi_out": 15.6,
+  "cancel_rate": 3.71,
+  "destinations": 46
+ },
+ {
+  "Origin": "CLE",
+  "city": "Cleveland, OH",
+  "flights": 23619,
+  "delay_rate": 21.68,
+  "avg_dep_delay": 13.6,
+  "avg_taxi_out": 16.2,
+  "cancel_rate": 4.28,
+  "destinations": 35
+ },
+ {
+  "Origin": "CMH",
+  "city": "Columbus, OH",
+  "flights": 23163,
+  "delay_rate": 20.37,
+  "avg_dep_delay": 11.2,
+  "avg_taxi_out": 14.8,
+  "cancel_rate": 3.81,
+  "destinations": 35
+ },
+ {
+  "Origin": "CVG",
+  "city": "Cincinnati, OH",
+  "flights": 22484,
+  "delay_rate": 20.52,
+  "avg_dep_delay": 11.4,
+  "avg_taxi_out": 14.9,
+  "cancel_rate": 3.64,
+  "destinations": 45
+ },
+ {
+  "Origin": "SAT",
+  "city": "San Antonio, TX",
+  "flights": 19486,
+  "delay_rate": 16.62,
+  "avg_dep_delay": 9.3,
+  "avg_taxi_out": 12.4,
+  "cancel_rate": 2.31,
+  "destinations": 36
+ },
+ {
+  "Origin": "BUR",
+  "city": "Burbank, CA",
+  "flights": 18021,
+  "delay_rate": 18.95,
+  "avg_dep_delay": 8.0,
+  "avg_taxi_out": 15.2,
+  "cancel_rate": 2.63,
+  "destinations": 21
+ },
+ {
+  "Origin": "SJU",
+  "city": "San Juan, PR",
+  "flights": 17846,
+  "delay_rate": 25.66,
+  "avg_dep_delay": 18.8,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 2.42,
+  "destinations": 29
+ },
+ {
+  "Origin": "OGG",
+  "city": "Kahului, HI",
+  "flights": 17270,
+  "delay_rate": 21.17,
+  "avg_dep_delay": 9.2,
+  "avg_taxi_out": 11.2,
+  "cancel_rate": 0.87,
+  "destinations": 21
+ },
+ {
+  "Origin": "JAX",
+  "city": "Jacksonville, FL",
+  "flights": 17184,
+  "delay_rate": 21.8,
+  "avg_dep_delay": 15.2,
+  "avg_taxi_out": 13.7,
+  "cancel_rate": 3.47,
+  "destinations": 33
+ },
+ {
+  "Origin": "MKE",
+  "city": "Milwaukee, WI",
+  "flights": 16066,
+  "delay_rate": 19.4,
+  "avg_dep_delay": 10.6,
+  "avg_taxi_out": 14.8,
+  "cancel_rate": 3.13,
+  "destinations": 32
+ },
+ {
+  "Origin": "PBI",
+  "city": "West Palm Beach/Palm Beach, FL",
+  "flights": 15205,
+  "delay_rate": 31.51,
+  "avg_dep_delay": 22.5,
+  "avg_taxi_out": 16.2,
+  "cancel_rate": 4.87,
+  "destinations": 30
+ },
+ {
+  "Origin": "CHS",
+  "city": "Charleston, SC",
+  "flights": 14921,
+  "delay_rate": 22.89,
+  "avg_dep_delay": 13.8,
+  "avg_taxi_out": 15.8,
+  "cancel_rate": 4.16,
+  "destinations": 33
+ },
+ {
+  "Origin": "BOI",
+  "city": "Boise, ID",
+  "flights": 14779,
+  "delay_rate": 14.71,
+  "avg_dep_delay": 5.8,
+  "avg_taxi_out": 14.2,
+  "cancel_rate": 1.04,
+  "destinations": 26
+ },
+ {
+  "Origin": "RIC",
+  "city": "Richmond, VA",
+  "flights": 13977,
+  "delay_rate": 19.4,
+  "avg_dep_delay": 11.9,
+  "avg_taxi_out": 16.9,
+  "cancel_rate": 4.09,
+  "destinations": 24
+ },
+ {
+  "Origin": "BDL",
+  "city": "Hartford, CT",
+  "flights": 13661,
+  "delay_rate": 21.99,
+  "avg_dep_delay": 14.1,
+  "avg_taxi_out": 14.2,
+  "cancel_rate": 4.41,
+  "destinations": 26
+ },
+ {
+  "Origin": "ORF",
+  "city": "Norfolk, VA",
+  "flights": 13562,
+  "delay_rate": 20.23,
+  "avg_dep_delay": 12.6,
+  "avg_taxi_out": 16.1,
+  "cancel_rate": 4.75,
+  "destinations": 27
+ },
+ {
+  "Origin": "ONT",
+  "city": "Ontario, CA",
+  "flights": 13418,
+  "delay_rate": 17.03,
+  "avg_dep_delay": 8.6,
+  "avg_taxi_out": 13.1,
+  "cancel_rate": 1.74,
+  "destinations": 22
+ },
+ {
+  "Origin": "SDF",
+  "city": "Louisville, KY",
+  "flights": 13354,
+  "delay_rate": 20.49,
+  "avg_dep_delay": 12.6,
+  "avg_taxi_out": 15.5,
+  "cancel_rate": 3.88,
+  "destinations": 37
+ },
+ {
+  "Origin": "OMA",
+  "city": "Omaha, NE",
+  "flights": 12790,
+  "delay_rate": 18.24,
+  "avg_dep_delay": 11.2,
+  "avg_taxi_out": 13.6,
+  "cancel_rate": 2.14,
+  "destinations": 31
+ },
+ {
+  "Origin": "MEM",
+  "city": "Memphis, TN",
+  "flights": 12589,
+  "delay_rate": 23.23,
+  "avg_dep_delay": 16.1,
+  "avg_taxi_out": 15.6,
+  "cancel_rate": 3.61,
+  "destinations": 29
+ },
+ {
+  "Origin": "BUF",
+  "city": "Buffalo, NY",
+  "flights": 12333,
+  "delay_rate": 22.52,
+  "avg_dep_delay": 14.9,
+  "avg_taxi_out": 14.8,
+  "cancel_rate": 5.31,
+  "destinations": 26
+ },
+ {
+  "Origin": "ANC",
+  "city": "Anchorage, AK",
+  "flights": 12026,
+  "delay_rate": 16.88,
+  "avg_dep_delay": 4.7,
+  "avg_taxi_out": 15.6,
+  "cancel_rate": 2.58,
+  "destinations": 29
+ },
+ {
+  "Origin": "OKC",
+  "city": "Oklahoma City, OK",
+  "flights": 12014,
+  "delay_rate": 17.17,
+  "avg_dep_delay": 9.5,
+  "avg_taxi_out": 13.9,
+  "cancel_rate": 2.87,
+  "destinations": 25
+ },
+ {
+  "Origin": "ABQ",
+  "city": "Albuquerque, NM",
+  "flights": 11766,
+  "delay_rate": 18.12,
+  "avg_dep_delay": 10.7,
+  "avg_taxi_out": 13.8,
+  "cancel_rate": 2.03,
+  "destinations": 24
+ },
+ {
+  "Origin": "GEG",
+  "city": "Spokane, WA",
+  "flights": 11336,
+  "delay_rate": 14.49,
+  "avg_dep_delay": 7.3,
+  "avg_taxi_out": 13.6,
+  "cancel_rate": 1.48,
+  "destinations": 20
+ },
+ {
+  "Origin": "SAV",
+  "city": "Savannah, GA",
+  "flights": 11177,
+  "delay_rate": 22.68,
+  "avg_dep_delay": 14.8,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 3.82,
+  "destinations": 33
+ },
+ {
+  "Origin": "RNO",
+  "city": "Reno, NV",
+  "flights": 11070,
+  "delay_rate": 17.03,
+  "avg_dep_delay": 8.7,
+  "avg_taxi_out": 14.1,
+  "cancel_rate": 1.25,
+  "destinations": 22
+ },
+ {
+  "Origin": "ELP",
+  "city": "El Paso, TX",
+  "flights": 10112,
+  "delay_rate": 17.54,
+  "avg_dep_delay": 11.2,
+  "avg_taxi_out": 14.4,
+  "cancel_rate": 2.3,
+  "destinations": 15
+ },
+ {
+  "Origin": "GRR",
+  "city": "Grand Rapids, MI",
+  "flights": 10100,
+  "delay_rate": 21.81,
+  "avg_dep_delay": 13.9,
+  "avg_taxi_out": 15.9,
+  "cancel_rate": 3.87,
+  "destinations": 35
+ },
+ {
+  "Origin": "SRQ",
+  "city": "Sarasota/Bradenton, FL",
+  "flights": 9761,
+  "delay_rate": 29.82,
+  "avg_dep_delay": 20.9,
+  "avg_taxi_out": 15.2,
+  "cancel_rate": 4.09,
+  "destinations": 49
+ },
+ {
+  "Origin": "MYR",
+  "city": "Myrtle Beach, SC",
+  "flights": 9757,
+  "delay_rate": 19.78,
+  "avg_dep_delay": 9.7,
+  "avg_taxi_out": 12.9,
+  "cancel_rate": 3.03,
+  "destinations": 52
+ },
+ {
+  "Origin": "KOA",
+  "city": "Kona, HI",
+  "flights": 9564,
+  "delay_rate": 16.86,
+  "avg_dep_delay": 6.8,
+  "avg_taxi_out": 11.7,
+  "cancel_rate": 0.98,
+  "destinations": 17
+ },
+ {
+  "Origin": "TUS",
+  "city": "Tucson, AZ",
+  "flights": 9546,
+  "delay_rate": 14.11,
+  "avg_dep_delay": 8.7,
+  "avg_taxi_out": 13.7,
+  "cancel_rate": 1.89,
+  "destinations": 18
+ },
+ {
+  "Origin": "ROC",
+  "city": "Rochester, NY",
+  "flights": 9538,
+  "delay_rate": 20.71,
+  "avg_dep_delay": 14.1,
+  "avg_taxi_out": 15.6,
+  "cancel_rate": 5.34,
+  "destinations": 21
+ },
+ {
+  "Origin": "TYS",
+  "city": "Knoxville, TN",
+  "flights": 9528,
+  "delay_rate": 17.44,
+  "avg_dep_delay": 8.7,
+  "avg_taxi_out": 17.0,
+  "cancel_rate": 2.43,
+  "destinations": 30
+ },
+ {
+  "Origin": "PVD",
+  "city": "Providence, RI",
+  "flights": 9518,
+  "delay_rate": 23.21,
+  "avg_dep_delay": 14.3,
+  "avg_taxi_out": 15.0,
+  "cancel_rate": 4.97,
+  "destinations": 23
+ },
+ {
+  "Origin": "SYR",
+  "city": "Syracuse, NY",
+  "flights": 9178,
+  "delay_rate": 22.5,
+  "avg_dep_delay": 16.2,
+  "avg_taxi_out": 17.3,
+  "cancel_rate": 4.66,
+  "destinations": 26
+ },
+ {
+  "Origin": "TUL",
+  "city": "Tulsa, OK",
+  "flights": 9169,
+  "delay_rate": 15.4,
+  "avg_dep_delay": 8.2,
+  "avg_taxi_out": 14.6,
+  "cancel_rate": 3.09,
+  "destinations": 22
+ },
+ {
+  "Origin": "LGB",
+  "city": "Long Beach, CA",
+  "flights": 9052,
+  "delay_rate": 19.34,
+  "avg_dep_delay": 9.8,
+  "avg_taxi_out": 12.5,
+  "cancel_rate": 1.26,
+  "destinations": 16
+ },
+ {
+  "Origin": "PSP",
+  "city": "Palm Springs, CA",
+  "flights": 8986,
+  "delay_rate": 17.43,
+  "avg_dep_delay": 9.3,
+  "avg_taxi_out": 14.3,
+  "cancel_rate": 1.75,
+  "destinations": 30
+ },
+ {
+  "Origin": "DSM",
+  "city": "Des Moines, IA",
+  "flights": 8802,
+  "delay_rate": 17.15,
+  "avg_dep_delay": 9.9,
+  "avg_taxi_out": 14.3,
+  "cancel_rate": 2.18,
+  "destinations": 32
+ },
+ {
+  "Origin": "BHM",
+  "city": "Birmingham, AL",
+  "flights": 8777,
+  "delay_rate": 20.46,
+  "avg_dep_delay": 14.0,
+  "avg_taxi_out": 14.7,
+  "cancel_rate": 2.81,
+  "destinations": 19
+ },
+ {
+  "Origin": "LIH",
+  "city": "Lihue, HI",
+  "flights": 8730,
+  "delay_rate": 14.87,
+  "avg_dep_delay": 5.1,
+  "avg_taxi_out": 10.1,
+  "cancel_rate": 1.1,
+  "destinations": 13
+ },
+ {
+  "Origin": "ALB",
+  "city": "Albany, NY",
+  "flights": 8670,
+  "delay_rate": 21.4,
+  "avg_dep_delay": 13.6,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 4.94,
+  "destinations": 23
+ },
+ {
+  "Origin": "GSP",
+  "city": "Greer, SC",
+  "flights": 8284,
+  "delay_rate": 16.87,
+  "avg_dep_delay": 10.1,
+  "avg_taxi_out": 16.2,
+  "cancel_rate": 3.56,
+  "destinations": 18
+ },
+ {
+  "Origin": "GSO",
+  "city": "Greensboro/High Point, NC",
+  "flights": 7354,
+  "delay_rate": 16.54,
+  "avg_dep_delay": 7.8,
+  "avg_taxi_out": 16.9,
+  "cancel_rate": 4.19,
+  "destinations": 13
+ },
+ {
+  "Origin": "HPN",
+  "city": "White Plains, NY",
+  "flights": 7301,
+  "delay_rate": 25.02,
+  "avg_dep_delay": 19.4,
+  "avg_taxi_out": 17.2,
+  "cancel_rate": 4.83,
+  "destinations": 11
+ },
+ {
+  "Origin": "LIT",
+  "city": "Little Rock, AR",
+  "flights": 7177,
+  "delay_rate": 18.34,
+  "avg_dep_delay": 11.8,
+  "avg_taxi_out": 14.8,
+  "cancel_rate": 2.74,
+  "destinations": 17
+ },
+ {
+  "Origin": "PNS",
+  "city": "Pensacola, FL",
+  "flights": 7131,
+  "delay_rate": 18.33,
+  "avg_dep_delay": 11.5,
+  "avg_taxi_out": 13.2,
+  "cancel_rate": 2.48,
+  "destinations": 19
+ },
+ {
+  "Origin": "COS",
+  "city": "Colorado Springs, CO",
+  "flights": 7017,
+  "delay_rate": 19.46,
+  "avg_dep_delay": 12.2,
+  "avg_taxi_out": 17.8,
+  "cancel_rate": 2.64,
+  "destinations": 13
+ },
+ {
+  "Origin": "XNA",
+  "city": "Fayetteville, AR",
+  "flights": 7013,
+  "delay_rate": 19.45,
+  "avg_dep_delay": 10.0,
+  "avg_taxi_out": 16.6,
+  "cancel_rate": 2.89,
+  "destinations": 23
+ },
+ {
+  "Origin": "MSN",
+  "city": "Madison, WI",
+  "flights": 6906,
+  "delay_rate": 16.64,
+  "avg_dep_delay": 10.6,
+  "avg_taxi_out": 14.8,
+  "cancel_rate": 2.9,
+  "destinations": 15
+ },
+ {
+  "Origin": "PWM",
+  "city": "Portland, ME",
+  "flights": 6697,
+  "delay_rate": 23.46,
+  "avg_dep_delay": 17.4,
+  "avg_taxi_out": 14.7,
+  "cancel_rate": 7.15,
+  "destinations": 22
+ },
+ {
+  "Origin": "FAT",
+  "city": "Fresno, CA",
+  "flights": 6284,
+  "delay_rate": 15.57,
+  "avg_dep_delay": 8.4,
+  "avg_taxi_out": 13.3,
+  "cancel_rate": 1.67,
+  "destinations": 11
+ },
+ {
+  "Origin": "BZN",
+  "city": "Bozeman, MT",
+  "flights": 6232,
+  "delay_rate": 19.09,
+  "avg_dep_delay": 10.5,
+  "avg_taxi_out": 15.8,
+  "cancel_rate": 1.99,
+  "destinations": 25
+ },
+ {
+  "Origin": "DAY",
+  "city": "Dayton, OH",
+  "flights": 6136,
+  "delay_rate": 15.89,
+  "avg_dep_delay": 9.0,
+  "avg_taxi_out": 16.5,
+  "cancel_rate": 2.69,
+  "destinations": 12
+ },
+ {
+  "Origin": "SFB",
+  "city": "Sanford, FL",
+  "flights": 5772,
+  "delay_rate": 31.28,
+  "avg_dep_delay": 16.5,
+  "avg_taxi_out": 14.3,
+  "cancel_rate": 3.45,
+  "destinations": 68
+ },
+ {
+  "Origin": "AVL",
+  "city": "Asheville, NC",
+  "flights": 5753,
+  "delay_rate": 20.21,
+  "avg_dep_delay": 10.8,
+  "avg_taxi_out": 15.3,
+  "cancel_rate": 3.6,
+  "destinations": 26
+ },
+ {
+  "Origin": "ICT",
+  "city": "Wichita, KS",
+  "flights": 5691,
+  "delay_rate": 17.31,
+  "avg_dep_delay": 11.6,
+  "avg_taxi_out": 13.9,
+  "cancel_rate": 2.64,
+  "destinations": 15
+ },
+ {
+  "Origin": "BTV",
+  "city": "Burlington, VT",
+  "flights": 5595,
+  "delay_rate": 20.37,
+  "avg_dep_delay": 16.9,
+  "avg_taxi_out": 17.8,
+  "cancel_rate": 5.97,
+  "destinations": 15
+ },
+ {
+  "Origin": "VPS",
+  "city": "Valparaiso, FL",
+  "flights": 5581,
+  "delay_rate": 19.96,
+  "avg_dep_delay": 10.8,
+  "avg_taxi_out": 14.5,
+  "cancel_rate": 3.08,
+  "destinations": 46
+ },
+ {
+  "Origin": "LEX",
+  "city": "Lexington, KY",
+  "flights": 5462,
+  "delay_rate": 17.1,
+  "avg_dep_delay": 9.7,
+  "avg_taxi_out": 16.9,
+  "cancel_rate": 3.11,
+  "destinations": 16
+ },
+ {
+  "Origin": "EUG",
+  "city": "Eugene, OR",
+  "flights": 5331,
+  "delay_rate": 15.85,
+  "avg_dep_delay": 11.0,
+  "avg_taxi_out": 13.4,
+  "cancel_rate": 1.71,
+  "destinations": 15
+ },
+ {
+  "Origin": "EYW",
+  "city": "Key West, FL",
+  "flights": 5324,
+  "delay_rate": 31.92,
+  "avg_dep_delay": 21.8,
+  "avg_taxi_out": 14.7,
+  "cancel_rate": 4.53,
+  "destinations": 20
+ },
+ {
+  "Origin": "HSV",
+  "city": "Huntsville, AL",
+  "flights": 5173,
+  "delay_rate": 17.83,
+  "avg_dep_delay": 10.4,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 2.84,
+  "destinations": 12
+ },
+ {
+  "Origin": "CID",
+  "city": "Cedar Rapids/Iowa City, IA",
+  "flights": 5102,
+  "delay_rate": 18.09,
+  "avg_dep_delay": 10.2,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 2.41,
+  "destinations": 17
+ },
+ {
+  "Origin": "MAF",
+  "city": "Midland/Odessa, TX",
+  "flights": 5062,
+  "delay_rate": 16.93,
+  "avg_dep_delay": 10.3,
+  "avg_taxi_out": 13.0,
+  "cancel_rate": 2.69,
+  "destinations": 8
+ },
+ {
+  "Origin": "MDT",
+  "city": "Harrisburg, PA",
+  "flights": 5059,
+  "delay_rate": 19.9,
+  "avg_dep_delay": 12.2,
+  "avg_taxi_out": 17.0,
+  "cancel_rate": 2.91,
+  "destinations": 18
+ },
+ {
+  "Origin": "CAE",
+  "city": "Columbia, SC",
+  "flights": 5023,
+  "delay_rate": 16.27,
+  "avg_dep_delay": 9.0,
+  "avg_taxi_out": 16.0,
+  "cancel_rate": 2.27,
+  "destinations": 9
+ },
+ {
+  "Origin": "PIE",
+  "city": "St. Petersburg, FL",
+  "flights": 5019,
+  "delay_rate": 30.79,
+  "avg_dep_delay": 14.5,
+  "avg_taxi_out": 15.1,
+  "cancel_rate": 3.67,
+  "destinations": 59
+ }
+]
